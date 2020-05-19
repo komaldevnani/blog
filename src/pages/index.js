@@ -58,9 +58,7 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Get In Touch</h2>
           <p>
-            Accumsan pellentesque commodo blandit enim arcu non at amet id arcu
-            magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem
-            vulputate lorem neque lorem ipsum dolor.
+            Would you like to know me more or you have any questions, do leave a message below. Also i'm open for job opportunities and would like to know if you have something for me.
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
@@ -104,23 +102,23 @@ const HomeIndex = () => {
                   <h3 className="icon fa-home">
                     <span className="label">Address</span>
                   </h3>
-                  1234 Somewhere Rd.
+                  1089 Sindhi mohalla
                   <br />
-                  Nashville, TN 00000
+                  Nasirabad, Rajasthan
                   <br />
-                  United States
+                  India
                 </li>
                 <li>
                   <h3 className="icon fa-mobile">
                     <span className="label">Phone</span>
                   </h3>
-                  000-000-0000
+                  7597290832
                 </li>
                 <li>
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">hello@untitled.tld</a>
+                  <a href="mailto:komaldevnani00@gmail.com">komaldevnani00@gmail.com</a>
                 </li>
               </ul>
             </div>
