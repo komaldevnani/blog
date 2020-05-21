@@ -1,9 +1,3 @@
-import full01 from '../../../assets/images/fulls/01.jpg'
-import full02 from '../../../assets/images/fulls/02.jpg'
-import full03 from '../../../assets/images/fulls/03.jpg'
-import full04 from '../../../assets/images/fulls/04.jpg'
-import full05 from '../../../assets/images/fulls/05.jpg'
-import full06 from '../../../assets/images/fulls/06.jpg'
 import thumb02 from '../../../assets/images/thumbs/02.jpg'
 import thumb01 from '../../../assets/images/thumbs/01.jpg'
 import thumb03 from '../../../assets/images/thumbs/03.jpg'
@@ -15,44 +9,44 @@ import thumb06 from '../../../assets/images/thumbs/06.jpg'
 export const DEFAULT_IMAGES = [
     {
       id: '1',
-      source: full01,
+      source: "https://komaldevnani-alpha-blog.herokuapp.com",
       thumbnail: thumb01,
-      caption: 'Photo 1',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+      caption: 'Alpha Blog',
+      description: 'Blog post application.',
     },
     {
       id: '2',
-      source: full02,
+      source: "https://komald-finance-logger.herokuapp.com",
       thumbnail: thumb02,
-      caption: 'Photo 2',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+      caption: 'Finance Tracker',
+      description: 'Stock rates tracking application.',
     },
     {
       id: '3',
-      source: full03,
+      source: "https://github.com/komaldevnani/quiz",
       thumbnail: thumb03,
-      caption: 'Photo 3',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+      caption: 'CLI Quiz',
+      description: 'Play quiz from your terminal',
     },
     {
       id: '4',
-      source: full04,
+      source: "https://tech-university-site.herokuapp.com",
       thumbnail: thumb04,
-      caption: 'Photo 4',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+      caption: 'Tech University',
+      description: 'Univerisity website',
     },
     {
       id: '5',
-      source: full05,
+      source: "https://github.com/komaldevnani/messageme",
       thumbnail: thumb05,
-      caption: 'Photo 5',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+      caption: 'Message Me',
+      description: 'Group chatting application .',
     },
     {
       id: '6',
-      source: full06,
+      source: "https://saas-app-komald.herokuapp.com",
       thumbnail: thumb06,
-      caption: 'Photo 6',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+      caption: 'SaaS Application',
+      description: 'Multiple tenants can work on their projects remotely',
     }
 ]

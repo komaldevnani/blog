@@ -43,8 +43,8 @@ const HomeIndex = () => {
 
           <ul className="actions">
             <li>
-              <a href="#" className="button">
-                Full Portfolio
+              <a href="https:/github.com/komaldevnani" className="button">
+                Show more
               </a>
             </li>
           </ul>
@@ -58,7 +58,7 @@ const HomeIndex = () => {
           <div className="row">
             <div className="8u 12u$(small)">
               <form method="post" netlify-honeypot="bot-field" data-netlify="true">
-+               <input type="hidden" name="bot-field" />
+               <input type="hidden" name="bot-field" />
                 <div className="row uniform 50%">
                   <div className="6u 12u$(xsmall)">
                     <input
