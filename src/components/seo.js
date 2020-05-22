@@ -72,8 +72,8 @@ const query = graphql`
         titleTemplate
         defaultDescription: description
         siteUrl: url
-        defaultImage: src/assets/images/avatar.jpg
-        komal_devnani
+        defaultImage: image
+        twitterUsername
       }
     }
   }
