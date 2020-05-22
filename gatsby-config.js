@@ -1,8 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter - Strata by HTML5 UP',
-    author: 'Hunter Chang',
-    description: 'A Gatsby.js Starter based on Strata by HTML5 UP',
+    title: 'Komal Devnani',
+    titleTemplate: "Komal Devnani. A Dancer and web developer",
+    author: 'Komal Devnani',
+    description: 'Komal Devnani is a multipotentialite',
+    url: "https://www.komaldevnani.netlify.app", 
+    image: "src/assets/images/avatar.jpg", // Path to your image you placed in the 'static' folder
+    twitterUsername: "@komal_devnani",
+    contactEmail: "komaldevnani00@gmail.com",
+    authorSocialLinks: [
+      { name: "github", url: "https://github.com/komaldevnani" },
+      { name: "facebook", url: "https://facebook.com/innovativekomal" }
+    ],
+    socialLinks: [
+      { url: 'https://github.com/komaldevnani', name: 'Github'},
+      { url: 'https://www.hackerrank.com/komaldevnani', name: 'Hackerrank'},
+      { url: 'https://www.instagram.com/discomal_', name: 'Instagram'},
+    ]
   },
   plugins: [
     'gatsby-plugin-react-helmet',

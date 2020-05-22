@@ -40,7 +40,7 @@ export const DEFAULT_IMAGES = [
       source: "https://github.com/komaldevnani/messageme",
       thumbnail: thumb05,
       caption: 'Message Me',
-      description: 'Group chatting application .',
+      description: 'Group chatting application.',
     },
     {
       id: '6',
