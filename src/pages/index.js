@@ -95,16 +95,6 @@ const HomeIndex = () => {
             <div className="4u 12u$(small)">
               <ul className="labeled-icons">
                 <li>
-                  <h3 className="icon fa-home">
-                    <span className="label">Address</span>
-                  </h3>
-                  1089 Sindhi mohalla
-                  <br />
-                  Nasirabad, Rajasthan
-                  <br />
-                  India
-                </li>
-                <li>
                   <h3 className="icon fa-mobile">
                     <span className="label">Phone</span>
                   </h3>
