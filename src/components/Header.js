@@ -10,11 +10,11 @@ const Header = () => (
         <img src={avatar} alt="" />
       </a>
       <h1>
-        <strong>I am Komal</strong>, a web developer
+        <strong>I am Komal</strong>, a multipotentialite
         <br />
-        i write code which is clean, efficient 
-        <br />
-        and follows object oriented programming.
+          as there is always so much
+        <br/>
+          to learn.
       </h1>
     </div>
     <Footer />

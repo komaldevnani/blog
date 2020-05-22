@@ -23,9 +23,9 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            I am a computer science undergraduate student and passionate about web development. 
-            I like to dig deep into the concepts and foundations. The languages i focus most on are Python and Ruby with having some knowledge of java and c++.
-            I'am happy to welcome you on my blog site. 
+            I am a computer science undergraduate student and a web developer who like to dig deep into the concepts and foundations. 
+            The languages i focus most on are Python and Ruby with having some knowledge of java and c++.
+            I'am happy to welcome you on my page. 
           </p>
           <ul className="actions">
             <li>
