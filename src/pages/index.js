@@ -53,12 +53,12 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Get In Touch</h2>
           <p>
-            Would you like to know me more or you have any questions, do leave a message below. Also i'm open for job opportunities and would like to know if you have something for me.
+            Would you like to know about me more or you have any questions, do leave a message below. Also i'm open for job opportunities and would like to know if you have something for me.
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
-              <form method="post" netlify-honeypot="bot-field" data-netlify="true">
-               <input type="hidden" name="bot-field" />
+              <form name="contact" method="post" data-netlify-honeypot="bot-field" data-netlify="true">
+               <input type="hidden" name="form-name" value="contact" />
                 <div className="row uniform 50%">
                   <div className="6u 12u$(xsmall)">
                     <input
