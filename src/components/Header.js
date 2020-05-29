@@ -10,11 +10,11 @@ const Header = () => (
         <img src={avatar} alt="" />
       </a>
       <h1>
-        <strong>I am Komal</strong>, a multipotentialite
+        <strong>I am Komal</strong>, a Full Stack Developer,
         <br />
-          as there is always so much
+          who loves to solve problems through 
         <br/>
-          to learn.
+        development skills.
       </h1>
     </div>
     <Footer />

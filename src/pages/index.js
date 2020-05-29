@@ -23,14 +23,22 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            I am a computer science undergraduate student and a web developer who like to dig deep into the concepts and foundations. 
-            The languages i focus most on are Python and Ruby with having some knowledge of java and c++.
+            I am a computer science undergraduate student and a web developer who likes to dig deep into the concepts and foundations.
+            Coming from a non-prestigious college and very low exposure, its hard to set an interview with big companies.
+            But my passion and enthusiasm didn't took a backseat. My brother Lokesh Devnani mentored me in this situation. He is a software engineer.
+            One thing i've understood in my life is that its very important to plan things out before, for your big goals in life.
+            And tracking your everyday growth or steps taken helps alot. 
             I'am happy to welcome you on my page. 
           </p>
           <ul className="actions">
             <li>
-              <a href="#" className="button">
-                Learn More
+              <a href="#two" className="button">
+                Show More
+              </a>
+            </li>
+            <li>
+              <a href="https://drive.google.com/open?id=1llENlF1sktJWsg0-I47gTpTqKqwUZRl3" target="_blank" className="button">
+                Resume
               </a>
             </li>
           </ul>
