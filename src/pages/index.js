@@ -23,11 +23,12 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            I am a computer science undergraduate student and a web developer who likes to dig deep into the concepts and foundations.
-            Coming from a non-prestigious college and very low exposure, its hard to set an interview with big companies.
-            But my passion and enthusiasm didn't took a backseat. My brother Lokesh Devnani mentored me in this situation. He is a software engineer.
+            I am a computer science undergraduate student and a web developer.
+            Creating, desgining and experimenting things makes me happy.
             One thing i've understood in my life is that its very important to plan things out before, for your big goals in life.
-            And tracking your everyday growth or steps taken helps alot. 
+            And tracking your everyday growth or steps helps alot.<br/> 
+            I also love dancing and i think its the best expression of our emotions.
+            <br/>
             I'am happy to welcome you on my page. 
           </p>
           <ul className="actions">
@@ -103,18 +104,28 @@ const HomeIndex = () => {
             <div className="4u 12u$(small)">
               <ul className="labeled-icons">
                 <li>
-                  <h3 className="icon fa-mobile">
-                    <span className="label">Phone</span>
-                  </h3>
-                  7597290832
-                </li>
-                <li>
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="mailto:komaldevnani00@gmail.com">komaldevnani00@gmail.com</a>
+                  <a href="mailto:komaldevnani00@gmail.com">komaldevnani00</a>
                 </li>
-              </ul>
+                <br/>
+                <a href="https://linkedin.com/in/komaldevnani" className="icon fa-linkedin-square fa-lg">
+                  <span className="label">Linkedin</span>
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://angel.co/u/komal-devnani" className="icon fa-angellist fa-lg">
+                  <span className="label">Angellist</span>
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://instagram.com/komaldevnani_" className="icon fa-instagram fa-lg">
+                  <span className="label">Instagram</span>
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://instagram.com/komaldevnani_" className="icon fa-quora fa-lg">
+                  <span className="label">Hackerrank</span>
+                </a>
+              </ul>     
             </div>
           </div>
         </section>
