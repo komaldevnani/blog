@@ -29,7 +29,7 @@ const HomeIndex = () => {
             And tracking your everyday growth or steps helps alot.<br/> 
             I also love dancing and i think its the best expression of our emotions.
             <br/>
-            I'am happy to welcome you on my page. 
+            I'am happy to welcome you on my website. 
           </p>
           <ul className="actions">
             <li>
@@ -38,7 +38,7 @@ const HomeIndex = () => {
               </a>
             </li>
             <li>
-              <a href="https://drive.google.com/open?id=1llENlF1sktJWsg0-I47gTpTqKqwUZRl3" target="_blank" className="button">
+              <a href="https://drive.google.com/file/d/1JDj8FBfBOcH7iS1N-Jezc84Nf258fobG/view?usp=sharing" target="_blank" className="button">
                 Resume
               </a>
             </li>
