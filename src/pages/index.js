@@ -5,7 +5,7 @@ import Gallery from '../components/Gallery'
 import Layout from '../components/layout'
 
 const HomeIndex = () => {
-  const siteTitle = 'Komal Devnani | Personal blog'
+  const siteTitle = 'Komal Devnani'
   const siteDescription = 'Komal Devnani is a web developer with excellent design sense.'
 
   return (
