@@ -23,7 +23,7 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            I am a computer science undergraduate student and a web developer.
+            I am a computer science undergraduate student and a Ruby on Rails developer.
             Creating, desgining and experimenting things makes me happy.
             One thing i've understood in my life is that its very important to plan things out before, for your big goals in life.
             And tracking your everyday growth or steps helps alot.<br/> 
