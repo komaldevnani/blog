@@ -1,10 +1,11 @@
 module.exports = {
   siteMetadata: {
+    siteUrl: `https://komaldevnani.netlify.app`,
     title: 'Komal Devnani',
     titleTemplate: "Komal Devnani. A Dancer and web developer",
     author: 'Komal Devnani',
     description: 'Komal Devnani is a multipotentialite',
-    url: "https://www.komaldevnani.netlify.app", 
+    url: "https://komaldevnani.netlify.app", 
     image: "src/assets/images/avatar.jpg", // Path to your image you placed in the 'static' folder
     twitterUsername: "@komal_devnani",
     contactEmail: "komaldevnani00@gmail.com",

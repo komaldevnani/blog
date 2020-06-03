@@ -14,7 +14,7 @@ const Header = () => (
         <br />
           who loves to solve problems through 
         <br/>
-        development skills.
+        &nbsp;development skills.
       </h1>
     </div>
     <Footer />

@@ -1,17 +1,9 @@
-import React, { useState, useCallback } from 'react'
+import React from 'react'
 import PropTypes from 'prop-types'
-import Carousel, { Modal, ModalGateway } from 'react-images'
 import GalleryItem from './GalleryItem'
 import { DEFAULT_IMAGES } from '../constants/defaultImages'
 
 const Gallery = ({ images = DEFAULT_IMAGES }) => {
-  const [lightboxIsOpen, setLightboxIsOpen] = useState(false)
-  const [selectedIndex, setSelectedIndex] = useState(0)
-
- /*  const toggleLightbox = useCallback(selectedIndex => {
-    setLightboxIsOpen(!lightboxIsOpen)
-    setSelectedIndex(selectedIndex)
-  }, [lightboxIsOpen]) */
 
   return (
     <div>
@@ -26,18 +18,11 @@ const Gallery = ({ images = DEFAULT_IMAGES }) => {
           position={obj.position}
           toggleLightbox={obj.toggleLightbox}
           position={i}
-          //toggleLightbox={toggleLightbox}
         />); 
         })}
         </div>
       )}
-      {/* { <ModalGateway>
-        {lightboxIsOpen && (
-          <Modal onClose={toggleLightbox}>
-            <Carousel currentIndex={selectedIndex} views={images} />
-        </Modal> 
-        )}
-      </ModalGateway> */}
+     
     </div>
   )
 }
