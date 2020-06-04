@@ -6,7 +6,8 @@ import Layout from '../components/layout'
 
 const HomeIndex = () => {
   const siteTitle = 'Komal Devnani'
-  const siteDescription = 'Komal Devnani '
+  const siteDescription = 'Komal Devnani is a Software developer and an enthusiastic and fun loving person'
+
   return (
     <Layout>
       <Helmet>
