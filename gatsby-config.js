@@ -24,11 +24,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'Komal-Devnani-portfolio-website',
+        short_name: 'Komal\'Portfolio',
         start_url: '/',
-        background_color: '#663399',
-        theme_color: '#663399',
+        background_color: '#808080',
+        theme_color: '#808080',
         display: 'minimal-ui',
         icon: 'src/assets/images/website-icon.png', // This path is relative to the root of the site.
       },
