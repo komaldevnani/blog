@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 
 const HomeIndex = () => {
   const siteTitle = 'Komal Devnani'
-  const siteDescription = 'Komal Devnani is a Software developer and an enthusiastic and fun loving person'
+  const siteDescription = 'Komal Devnani is a Software developer and an enthusiastic and fun-loving person'
 
   return (
     <Layout>
@@ -24,12 +24,12 @@ const HomeIndex = () => {
           </header>
           <p>
             I am a computer science undergraduate student and a Ruby on Rails developer.
-            Creating, desgining and experimenting things makes me happy.
-            One thing i've understood in my life is that its very important to plan things out before, for your big goals in life.
-            And tracking your everyday growth or steps helps alot.<br/> 
-            I also love dancing and i think its the best expression of our emotions.
+            Creating, designing, and experimenting with things makes me happy.
+            One thing I’ve understood in my life is that it’s very important to plan things out before, for your big goals in life.
+            And tracking your everyday growth or steps helps a lot.<br/>
+            I also love dancing and I think its the best expression of our emotions.
             <br/>
-            I'am happy to welcome you on my website. 
+            I’m happy to welcome you to my website.
           </p>
           <ul className="actions">
             <li>
@@ -63,8 +63,7 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Get In Touch</h2>
           <p>
-            Would you like to know about me more or you have any questions, do leave a message below. Also i'm open for job opportunities and would like to know if you have something for me.
-          </p>
+          I’m open to job opportunities and would love to collab with you. So let’s just connect.          </p>
           <div className="row">
             <div className="8u 12u$(small)">
               <form name="contact" method="post" data-netlify-honeypot="bot-field" data-netlify="true">
