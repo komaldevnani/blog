@@ -25,7 +25,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Komal-Devnani-portfolio-website',
-        short_name: 'Komal\'Portfolio',
+        short_name: 'Komal\'s Portfolio',
         start_url: '/',
         background_color: '#808080',
         theme_color: '#808080',

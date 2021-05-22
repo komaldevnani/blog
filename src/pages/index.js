@@ -23,13 +23,12 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            I am a computer science undergraduate student and a Ruby on Rails developer.
-            Creating, designing, and experimenting with things makes me happy.
-            One thing I’ve understood in my life is that it’s very important to plan things out before, for your big goals in life.
-            And tracking your everyday growth or steps helps a lot.<br/>
-            I also love dancing and I think its the best expression of our emotions.
-            <br/>
-            I’m happy to welcome you to my website.
+          Hello! I’m a Software Development Engineer. I enjoy creating, designing, and experimenting with things. 
+          I’ve also been developing some interesting and meaningful projects.
+         
+          <p>I’m always interested in becoming a better Engineer, Contributor, Team member, Human and in meeting interesting people.</p>
+
+          I’m happy to welcome you to my website.
           </p>
           <ul className="actions">
             <li>
@@ -110,8 +109,8 @@ const HomeIndex = () => {
                   <a href="mailto:komaldevnani00@gmail.com">komaldevnani00</a>
                 </li>
                 <br/>
-                <a href="https://linkedin.com/in/komaldevnani" className="icon fa-linkedin-square fa-lg">
-                  <span className="label">Linkedin</span>
+                <a href="https://www.hackerrank.com/komaldevnani" className="icon fa-hackerrank fa-lg" title="HackerRank">                  
+                  <span className="label">HackerRank</span>
                 </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 <a href="https://angel.co/u/komal-devnani" className="icon fa-angellist fa-lg">
