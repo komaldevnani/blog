@@ -117,11 +117,11 @@ const HomeIndex = () => {
                   <span className="label">Angellist</span>
                 </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://instagram.com/komaldevnani_" className="icon fa-instagram fa-lg">
-                  <span className="label">Instagram</span>
+                <a href="https://www.interviewbit.com/profile/komal.dev" className="icon fa-trophy fa-lg" title="Interviewbit">
+                  <span className="label">Interviewbit</span>
                 </a>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://instagram.com/komaldevnani_" className="icon fa-quora fa-lg">
+                <a href="https://www.quora.com/profile/Komal-Devnani" className="icon fa-quora fa-lg">
                   <span className="label">Hackerrank</span>
                 </a>
               </ul>     

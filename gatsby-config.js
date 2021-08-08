@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://komaldevnani.netlify.app`,
+    siteUrl: `https://komal.dev`,
     title: 'Komal Devnani',
-    titleTemplate: "Komal Devnani. A Dancer and web developer",
+    titleTemplate: "Komal Devnani | Software Engineer",
     author: 'Komal Devnani',
-    description: 'Komal Devnani is a multipotentialite',
-    url: "https://komaldevnani.netlify.app", 
+    description: 'Komal Devnani is a Software Engineer and has experience working with ownership in a Product Company',
+    url: "https://komal.dev", 
     image: "src/assets/images/avatar.jpg", // Path to your image you placed in the 'static' folder
     twitterUsername: "@komal_devnani",
     contactEmail: "komaldevnani00@gmail.com",
@@ -16,7 +16,7 @@ module.exports = {
     socialLinks: [
       { url: 'https://github.com/komaldevnani', name: 'Github'},
       { url: 'https://www.hackerrank.com/komaldevnani', name: 'Hackerrank'},
-      { url: 'https://www.instagram.com/discomal_', name: 'Instagram'},
+      { url: 'https://www.instagram.com/komaldevnani__', name: 'Instagram'},
     ]
   },
   plugins: [
