@@ -16,7 +16,7 @@ module.exports = {
     socialLinks: [
       { url: 'https://github.com/komaldevnani', name: 'Github'},
       { url: 'https://www.hackerrank.com/komaldevnani', name: 'Hackerrank'},
-      { url: 'https://www.instagram.com/komaldevnani__', name: 'Instagram'},
+      { url: 'https://www.instagram.com/komaldevnani_', name: 'Instagram'},
     ]
   },
   plugins: [

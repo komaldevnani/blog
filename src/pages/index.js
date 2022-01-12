@@ -37,7 +37,7 @@ const HomeIndex = () => {
               </a>
             </li>
             <li>
-              <a href="https://drive.google.com/file/d/1JDj8FBfBOcH7iS1N-Jezc84Nf258fobG/view?usp=sharing" 
+              <a href="https://drive.google.com/file/d/1LyM3nzDDYA4eXSi4grpzUvOJyijYXzhh/view?usp=sharing" 
               target="_blank" rel="noreferrer" className="button">
                 Resume
               </a>
